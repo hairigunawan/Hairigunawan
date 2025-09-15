@@ -1,5 +1,3 @@
-## 👋 Halo, saya Speck!
-
 ![Hairi Gunawan](github-header-banner.png)
 
 
